@@ -1,3 +1,7 @@
+Youtube link to see output:
+https://youtu.be/MWX0DbDSevk
+
+
 # 🚀 Enhancing Space Education through Metaverse  
 ### Using Photon Unity Networking, Conversational AI, and Unity Engine  
 
@@ -42,9 +46,10 @@ This project is designed to transform traditional space education using immersiv
 2. **Login Interface** – Name-based user authentication  
 3. **Multiplayer Setup** – Master/Participant interaction via Photon  
 4. **Planet Environment Simulation** – Custom terrains and phenomena  
-5. **Teleportation Module** – Move between planets via interaction   
-6. **UI/UX Optimization** – Interactive pop-ups, info panels  
-7. **Testing & Optimization** – Performance and quality improvements
+5. **Teleportation Module** – Move between planets via interaction
+6. **Conversational AI** – AI guide with educational content 
+7. **UI/UX Optimization** – Interactive pop-ups, info panels  
+8. **Testing & Optimization** – Performance and quality improvements
 
 ---
 
@@ -71,8 +76,7 @@ This project is designed to transform traditional space education using immersiv
 Open to contributions! Feel free to fork the repo, raise issues, and suggest improvements.  
 
 ---
-Youtube link to see output:
-https://youtu.be/MWX0DbDSevk
+
 
 ---
 
